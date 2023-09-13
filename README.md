@@ -1,3 +1,3 @@
-# TP2-Bootstrap
+# TP2-Bootstrap-Rodeghiero-46417
 Legajo: 46417
-Alumno: Agustin Rodeghiero
+Caracteristicas de Ejecución: descargar el archivo index y ejecutarlo
